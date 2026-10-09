@@ -11,7 +11,9 @@ navegables y control remoto desde el móvil.
 
 | Plataforma | Instalador |
 |---|---|
-| macOS 12+ | **[IO-Backup-1.0.0.dmg](https://github.com/mavksoft/io-backup-releases/releases/download/v1.0.0/IO-Backup-1.0.0.dmg)** — arrastra a Aplicaciones; auto-update incluido |
+| macOS 12+ | **[Descargar IO Backup.dmg](https://www.io-backup.com/api/dl.php?p=macos&s=github)** — siempre la última versión; arrastra a Aplicaciones, auto-update incluido |
+
+Ver [todas las releases](https://github.com/mavksoft/io-backup-releases/releases/latest).
 
 El DMG va firmado con Developer ID y notarizado por Apple. La app se
 actualiza sola (comprueba nuevas versiones cada 6 h).
