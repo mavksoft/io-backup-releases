@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/license-commercial-orange" alt="commercial license">
 </p>
 
-<p align="center"><a href="https://mavksoft.github.io/io-backup-releases/"><img src="https://img.shields.io/badge/docs-mavksoft.github.io%2Fio-backup-releases-blue" alt="docs"></a></p>
+<p align="center"><a href="https://mavksoft.github.io/io-backup-releases/"><img src="https://img.shields.io/static/v1?label=docs&message=mavksoft.github.io/io-backup-releases&color=blue" alt="docs"></a></p>
 
 <p align="center">🌍 <a href="README.es.md">🇪🇸 Español</a> · <a href="README.md">🇬🇧 English</a> · <a href="README.de.md">🇩🇪 Deutsch</a> · <strong>🇫🇷 Français</strong> · <a href="README.it.md">🇮🇹 Italiano</a> · <a href="README.pt.md">🇵🇹 Português</a></p>
 
