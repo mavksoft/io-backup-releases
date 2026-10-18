@@ -29,6 +29,8 @@
 
 IO Backup is the spiritual successor of Cobian Backup: incremental backups that produce browsable snapshots — every run is a complete restore point from which you can recover a file, a folder or the whole tree. An OS-level watcher records only what changes, so each pass touches only what's new.
 
+<p align="center"><img src="./screenshots/website.png" width="640" alt="screenshot"></p>
+
 ## Features
 
 - **No full scans** — USN Journal (Windows), FSEvents (macOS) and inotify (Linux) record only what changes; every pass touches just the new data.

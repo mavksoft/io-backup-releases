@@ -29,6 +29,8 @@
 
 IO Backup est le successeur spirituel de Cobian Backup : des sauvegardes incrémentales qui produisent des snapshots navigables — chaque exécution est un point de restauration complet duquel récupérer un fichier, un dossier ou toute l'arborescence. Un watcher du système d'exploitation n'enregistre que ce qui change, donc chaque passage ne touche que le nouveau.
 
+<p align="center"><img src="./screenshots/website.png" width="640" alt="screenshot"></p>
+
 ## Fonctionnalités
 
 - **Pas de scans complets** — USN Journal (Windows), FSEvents (macOS) et inotify (Linux) n'enregistrent que les changements.
