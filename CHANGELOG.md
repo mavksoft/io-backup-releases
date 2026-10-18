@@ -4,7 +4,18 @@ All notable releases published in this repository.
 
 ## v1.3.40 — 2026-10-18
 
-Creador de discos: los presets de tamaño marcan la selección real
+## Release v1.3.40
+
+Official signed binaries. Docs: https://mavksoft.github.io/io-backup-releases/
+
+### Assets
+- `IO-Backup-1.3.40-Windows-Portable.zip`
+- `IO-Backup-1.3.40.dmg`
+- `IO-Backup-1.3.40.zip`
+- `IO-Backup-Setup-1.3.40.exe`
+- `IO-Backup-Setup.exe`
+- `iobackupd.exe`
+- `version.json`
 
 **Assets:** `IO-Backup-1.3.40-Windows-Portable.zip` · `IO-Backup-1.3.40.dmg` · `IO-Backup-1.3.40.zip` · `IO-Backup-Setup-1.3.40.exe` · `IO-Backup-Setup.exe` · `iobackupd.exe` · `version.json`
 

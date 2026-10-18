@@ -23,9 +23,9 @@
 
 | | |
 |---|---|
-| 🍎 **macOS 12+** | [IO-Backup.dmg](https://www.io-backup.com/api/dl.php?p=macos&s=github) — sempre a última versão; auto-update incluído |
-| 🪟 **Windows** | [IO-Backup-Setup.exe](https://github.com/mavksoft/io-backup-releases/releases/latest) — instalador com serviço em segundo plano |
-| 🌍 **Site oficial** | [www.io-backup.com](https://www.io-backup.com) — portal de utilizador, licenças e suporte |
+| <img src='https://raw.githubusercontent.com/mavksoft/io-backup-releases/main/icons/apple.svg' width='15' style='vertical-align:-2px' alt='apple'> **macOS 12+** | [IO-Backup.dmg](https://www.io-backup.com/api/dl.php?p=macos&s=github) — sempre a última versão; auto-update incluído |
+| <img src='https://raw.githubusercontent.com/mavksoft/io-backup-releases/main/icons/windows.svg' width='15' style='vertical-align:-2px' alt='windows'> **Windows** | [IO-Backup-Setup.exe](https://github.com/mavksoft/io-backup-releases/releases/latest) — instalador com serviço em segundo plano |
+| <img src='https://www.io-backup.com/assets/img/logo.png' width='15' style='vertical-align:-2px'> **Site oficial** | [www.io-backup.com](https://www.io-backup.com) — portal de utilizador, licenças e suporte |
 
 ## O que é
 
